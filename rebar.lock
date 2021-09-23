@@ -1,0 +1,11 @@
+{"1.2.0",
+[{<<"jsone">>,{pkg,<<"jsone">>,<<"1.6.1">>},0},
+ {<<"parse_trans">>,{pkg,<<"parse_trans">>,<<"3.4.1">>},0}]}.
+[
+{pkg_hash,[
+ {<<"jsone">>, <<"7EA1098FE004C4127320FE0E3CF6A951B01F82039FEAA56C322DC7E34DD59762">>},
+ {<<"parse_trans">>, <<"6E6AA8167CB44CC8F39441D05193BE6E6F4E7C2946CB2759F015F8C56B76E5FF">>}]},
+{pkg_hash_ext,[
+ {<<"jsone">>, <<"A6C1DF6081DF742068D2ED747A4FE8A7740C56421B53E02BC9D4907DD3502922">>},
+ {<<"parse_trans">>, <<"620A406CE75DADA827B82E453C19CF06776BE266F5A67CFF34E1EF2CBB60E49A">>}]}
+].
